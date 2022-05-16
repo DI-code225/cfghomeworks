@@ -31,4 +31,3 @@ def generate_phrase(characters, phrase):
 print(generate_phrase('cpolasaype', 'Apocalypse'))
 
 
-

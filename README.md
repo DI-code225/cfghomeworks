@@ -8,3 +8,8 @@ Foundation
 * Theory: 100/100
 * Assessment 2: 85/100
 
+
+Specialisation
+* Homework 2: 85/100
+* Homework 3: 90/100  
+* Homework 4: 98/100
